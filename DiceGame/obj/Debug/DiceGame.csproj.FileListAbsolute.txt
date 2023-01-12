@@ -1,0 +1,56 @@
+C:/Users/sinhanchau/source/repos/DiceGame/DiceGame/bin/Debug/DiceGame.exe.config
+C:/Users/sinhanchau/source/repos/DiceGame/DiceGame/bin/Debug/DiceGame.exe
+C:/Users/sinhanchau/source/repos/DiceGame/DiceGame/bin/Debug/DiceGame.pdb
+C:/Users/sinhanchau/source/repos/DiceGame/DiceGame/obj/Debug/DiceGame.csproj.AssemblyReference.cache
+C:/Users/sinhanchau/source/repos/DiceGame/DiceGame/obj/Debug/DiceGame.Form1.resources
+C:/Users/sinhanchau/source/repos/DiceGame/DiceGame/obj/Debug/DiceGame.Properties.Resources.resources
+C:/Users/sinhanchau/source/repos/DiceGame/DiceGame/obj/Debug/DiceGame.csproj.GenerateResource.cache
+C:/Users/sinhanchau/source/repos/DiceGame/DiceGame/obj/Debug/DiceGame.csproj.CoreCompileInputs.cache
+C:/Users/sinhanchau/source/repos/DiceGame/DiceGame/obj/Debug/DiceGame.exe
+C:/Users/sinhanchau/source/repos/DiceGame/DiceGame/obj/Debug/DiceGame.pdb
+/Users/sinhanchau/Downloads/DiceGame/DiceGame/bin/Debug/DiceGame.exe.config
+/Users/sinhanchau/Downloads/DiceGame/DiceGame/bin/Debug/DiceGame.exe
+/Users/sinhanchau/Downloads/DiceGame/DiceGame/bin/Debug/DiceGame.pdb
+/Users/sinhanchau/Downloads/DiceGame/DiceGame/obj/Debug/DiceGame.csproj.AssemblyReference.cache
+/Users/sinhanchau/Downloads/DiceGame/DiceGame/obj/Debug/DiceGame.Form1.resources
+/Users/sinhanchau/Downloads/DiceGame/DiceGame/obj/Debug/DiceGame.Properties.Resources.resources
+/Users/sinhanchau/Downloads/DiceGame/DiceGame/obj/Debug/DiceGame.csproj.GenerateResource.cache
+/Users/sinhanchau/Downloads/DiceGame/DiceGame/obj/Debug/DiceGame.csproj.CoreCompileInputs.cache
+/Users/sinhanchau/Downloads/DiceGame/DiceGame/obj/Debug/DiceGame.exe
+/Users/sinhanchau/Downloads/DiceGame/DiceGame/obj/Debug/DiceGame.pdb
+\\Mac\Home\Downloads\DiceGame\DiceGame\bin\Debug\DiceGame.exe.config
+\\Mac\Home\Downloads\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+\\Mac\Home\Downloads\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+\\Mac\Home\Downloads\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\DiceGame\DiceGame\obj\Debug\DiceGame.Properties.Resources.resources
+\\Mac\Home\Downloads\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+\\Mac\Home\Downloads\DiceGame\DiceGame\obj\Debug\DiceGame.pdb
+\\Mac\Home\Downloads\DiceGame\DiceGame\obj\Debug\DiceGame.Groan.resources
+\\Mac\Home\Desktop\DiceGame 2\DiceGame\bin\Debug\DiceGame.exe.config
+\\Mac\Home\Desktop\DiceGame 2\DiceGame\bin\Debug\DiceGame.exe
+\\Mac\Home\Desktop\DiceGame 2\DiceGame\bin\Debug\DiceGame.pdb
+\\Mac\Home\Desktop\DiceGame 2\DiceGame\obj\Debug\DiceGame.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\DiceGame 2\DiceGame\obj\Debug\DiceGame.GameForm.resources
+\\Mac\Home\Desktop\DiceGame 2\DiceGame\obj\Debug\DiceGame.GuideForm.resources
+\\Mac\Home\Desktop\DiceGame 2\DiceGame\obj\Debug\DiceGame.Properties.Resources.resources
+\\Mac\Home\Desktop\DiceGame 2\DiceGame\obj\Debug\DiceGame.StartForm.resources
+\\Mac\Home\Desktop\DiceGame 2\DiceGame\obj\Debug\DiceGame.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\DiceGame 2\DiceGame\obj\Debug\DiceGame.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\DiceGame 2\DiceGame\obj\Debug\DiceGame.exe
+\\Mac\Home\Desktop\DiceGame 2\DiceGame\obj\Debug\DiceGame.pdb
+\\Mac\Home\Desktop\DiceGame 2\DiceGame\obj\Debug\DiceGame.SettingsForm.resources
+\\Mac\Home\Downloads\DiceGame 2 2\DiceGame\bin\Debug\DiceGame.exe.config
+\\Mac\Home\Downloads\DiceGame 2 2\DiceGame\bin\Debug\DiceGame.exe
+\\Mac\Home\Downloads\DiceGame 2 2\DiceGame\bin\Debug\DiceGame.pdb
+\\Mac\Home\Downloads\DiceGame 2 2\DiceGame\obj\Debug\DiceGame.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\DiceGame 2 2\DiceGame\obj\Debug\DiceGame.SettingsForm.resources
+\\Mac\Home\Downloads\DiceGame 2 2\DiceGame\obj\Debug\DiceGame.GameForm.resources
+\\Mac\Home\Downloads\DiceGame 2 2\DiceGame\obj\Debug\DiceGame.GuideForm.resources
+\\Mac\Home\Downloads\DiceGame 2 2\DiceGame\obj\Debug\DiceGame.Properties.Resources.resources
+\\Mac\Home\Downloads\DiceGame 2 2\DiceGame\obj\Debug\DiceGame.StartForm.resources
+\\Mac\Home\Downloads\DiceGame 2 2\DiceGame\obj\Debug\DiceGame.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\DiceGame 2 2\DiceGame\obj\Debug\DiceGame.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\DiceGame 2 2\DiceGame\obj\Debug\DiceGame.exe
+\\Mac\Home\Downloads\DiceGame 2 2\DiceGame\obj\Debug\DiceGame.pdb
